@@ -1,4 +1,4 @@
-# Genesis AI
+# AI server generator
 
 ## 概要
 Genesis AI は、Discord サーバーを AI で自動構築・最適化できる管理 Bot です。ユーザーがテーマを指定すると、Gemini（Google Generative AI）を呼び出してサーバー構成（ロール、カテゴリ・チャンネル、推奨 Bot、初期ルール）を生成し、ボタン操作で即座に構築します。
